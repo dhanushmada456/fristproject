@@ -1,0 +1,1 @@
+git means git is a virsion controlling system of a project that is being developed by multiple devices working on it simulataneously
